@@ -7,3 +7,5 @@ S
 #tests/compliance-monitoring.test.ts,4/8/485152d1db8ed6d359484182f5e00ecf80ea8b18
 N
 contracts/ip-registration.clar,8/6/8647bc5d2402fa87ccefde343d97eb59e2b9b613
+M
+tests/ip-registration.test.ts,d/1/d1af5956f90d37e8eb10704a35788d07175ea187
